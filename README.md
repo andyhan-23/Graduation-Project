@@ -1,4 +1,5 @@
 # 졸업 프로젝트
+## 필적 인식 AI를 활용한 인증 시스템
 
 ![KakaoTalk_Photo_2023-01-26-11-11-43](https://user-images.githubusercontent.com/98483125/214742668-0fc36b28-eb3d-4b0a-8afa-065edc45dd1b.jpeg)
 
