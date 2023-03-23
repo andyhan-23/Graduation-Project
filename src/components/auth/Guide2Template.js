@@ -67,4 +67,3 @@ const AuthTemplateBlock = styled.div`
 
 
 export default AuthTemplate;
-<test>
