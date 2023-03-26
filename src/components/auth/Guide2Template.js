@@ -63,7 +63,7 @@ const AuthTemplateBlock = styled.div`
             
         );
     };
-
+<test>
 
 
 export default AuthTemplate;
