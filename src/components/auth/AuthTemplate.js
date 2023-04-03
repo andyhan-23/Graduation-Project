@@ -52,4 +52,3 @@ const AuthTemplate = ({ children }) => {
 };
 
 export default AuthTemplate;
-<test>
