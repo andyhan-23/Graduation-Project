@@ -60,3 +60,4 @@ const Footer3 = ({ user, onLogout }) => {
 };
 
 export default Footer3;
+<test>
