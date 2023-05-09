@@ -67,4 +67,3 @@ const AskModal = ({
 };
 
 export default AskModal;
-<test>
