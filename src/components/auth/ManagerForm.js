@@ -105,3 +105,4 @@ const ManagerForm = ({ type, form, onChange, onSubmit, error }) => {
 };
 
 export default ManagerForm;
+<test>
